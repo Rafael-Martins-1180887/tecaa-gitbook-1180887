@@ -1,0 +1,2 @@
+# Excess Structural Information Smell
+
