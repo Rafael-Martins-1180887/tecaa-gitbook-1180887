@@ -7,8 +7,6 @@
   * [Original Definition](excess-structural-information-smell/original-definition.md)
   * [Second Definition](excess-structural-information-smell/second-definition.md)
   * [AI Definition](excess-structural-information-smell/ai-definition.md)
-
-## Examples
-
-* [Positive Examples](examples/positive-examples.md)
-* [Negative Examples](examples/negative-examples.md)
+* [Examples](examples/README.md)
+  * [Example 1](examples/example-1.md)
+  * [Example 2](examples/example-2.md)
