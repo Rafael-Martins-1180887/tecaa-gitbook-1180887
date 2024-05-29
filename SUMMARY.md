@@ -10,3 +10,4 @@
 * [Examples](examples/README.md)
   * [Example 1](examples/example-1.md)
   * [Example 2](examples/example-2.md)
+* [Bibliographic References](bibliographic-references.md)
