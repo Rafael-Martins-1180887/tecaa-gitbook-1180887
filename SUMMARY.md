@@ -1,6 +1,8 @@
 # Table of contents
 
-* [API Documentation Smells](README.md)
+* [Overview](README.md)
+* [API Documentation](api-documentation/README.md)
+  * [Documentation Smells](api-documentation/documentation-smells.md)
 * [Excess Structural Information Smell](excess-structural-information-smell/README.md)
   * [Definition](excess-structural-information-smell/definition.md)
 
