@@ -4,7 +4,9 @@
 * [API Documentation](api-documentation/README.md)
   * [Documentation Smells](api-documentation/documentation-smells.md)
 * [Excess Structural Information Smell](excess-structural-information-smell/README.md)
-  * [Definition](excess-structural-information-smell/definition.md)
+  * [Original Definition](excess-structural-information-smell/original-definition.md)
+  * [Second Definition](excess-structural-information-smell/second-definition.md)
+  * [AI Definition](excess-structural-information-smell/ai-definition.md)
 
 ## Examples
 
